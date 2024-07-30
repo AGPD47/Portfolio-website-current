@@ -76,7 +76,7 @@ export const projects = [
     des: "The Interactive 3D Shirt Designer enables users to customize shirts in real-time, offering color changes and logo placements with ease. Built using Three.js and React, this app provides a dynamic and user-friendly interface for designing unique apparel.",
     img: "/shirt.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/three.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/AGPD47/Shirt",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "Metaverse is an animated frontend website built with Next.js and React.js, featuring dynamic visual effects powered by Framer Motion. The site focuses on showcasing engaging and smooth animations to create an immersive user experience.",
     img: "/metaverse.png",
     iconLists: ["/next.svg", "/tail.svg", "/three.svg", "/stream.svg"],
-    link: "/ui.yoom.com",
+    link: "https://github.com/AGPD47/Metaverse",
   },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "AI Prompt Interactor is a web application built with React.js that allows users to interact with an AI model by entering prompts and viewing responses. The app uses the Gemini API for generating AI-driven answers and includes features for managing and tracking previous prompts and responses.",
     img: "/Ai.png",
     iconLists: ["/re.svg"],
-    link: "/ui.aiimg.com",
+    link: "https://github.com/AGPD47/gemini",
   },
   {
     id: 4,
@@ -100,7 +100,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/apple.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://github.com/AGPD47/Apple-Website",
   },
 ];
 
