@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Interactive 3D Shirt Designer",
     des: "The Interactive 3D Shirt Designer enables users to customize shirts in real-time, offering color changes and logo placements with ease. Built using Three.js and React, this app provides a dynamic and user-friendly interface for designing unique apparel.",
-    img: "/p1.svg",
+    img: "/shirt.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/three.svg"],
     link: "/ui.earth.com",
   },
@@ -82,7 +82,7 @@ export const projects = [
     id: 2,
     title: "Metaverse",
     des: "Metaverse is an animated frontend website built with Next.js and React.js, featuring dynamic visual effects powered by Framer Motion. The site focuses on showcasing engaging and smooth animations to create an immersive user experience.",
-    img: "/p2.svg",
+    img: "/metaverse.png",
     iconLists: ["/next.svg", "/tail.svg", "/three.svg", "/stream.svg"],
     link: "/ui.yoom.com",
   },
@@ -90,7 +90,7 @@ export const projects = [
     id: 3,
     title: "AI Prompt Interactor",
     des: "AI Prompt Interactor is a web application built with React.js that allows users to interact with an AI model by entering prompts and viewing responses. The app uses the Gemini API for generating AI-driven answers and includes features for managing and tracking previous prompts and responses.",
-    img: "/p3.svg",
+    img: "/Ai.png",
     iconLists: ["/re.svg"],
     link: "/ui.aiimg.com",
   },
@@ -98,7 +98,7 @@ export const projects = [
     id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    img: "/apple.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
   },
@@ -106,34 +106,29 @@ export const projects = [
 
 export const testimonials = [
   {
+    title: "Interactive Frontend Development",
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Specialize in crafting dynamic and interactive user interfaces using React, Next.js, and modern frontend technologies. I focus on creating seamless and responsive designs that enhance user engagement and provide a smooth browsing experience. Whether it's a single-page application or a complex web app, I ensure that every element functions intuitively and efficiently.",
   },
   {
+    title: "Custom Animation Integration",
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Bring websites to life with advanced animations and transitions using Framer Motion and GSAP. I design and implement visually captivating animations that not only grab attention but also improve the overall user experience. From subtle transitions to complex interactive effects, I create animations that align with your brand's identity and objectives.",
   },
   {
+    title: "Responsive Web Design",
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Design and develop responsive websites with Tailwind CSS and React to ensure optimal performance across all devices and screen sizes. I focus on creating adaptive layouts that provide a consistent and user-friendly experience, whether on mobile, tablet, or desktop. My approach ensures that your website looks and functions perfectly on any device.",
   },
   {
+    title: "3D Web Experiences",
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Build immersive and interactive 3D web applications using Three.js. I create engaging 3D models and visualizations that enhance user interaction and provide unique visual experiences. Whether for product showcases or interactive web features, I deliver visually stunning 3D experiences that captivate and retain user interest.",
   },
   {
+    title: "API Integration and Development",
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Expertly integrate third-party APIs into your projects to extend functionality and improve user experiences. I handle the complete API integration process, from connecting to external services to ensuring seamless data interactions. Additionally, I can develop custom APIs tailored to your specific needs, enhancing your application's capabilities and performance.",
   },
 ];
 
